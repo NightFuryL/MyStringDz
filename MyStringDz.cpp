@@ -21,7 +21,7 @@ int main()
 	MyString str5 = "C++";
 	cout << str5 << endl;
 	cout << "Length of str5: " << str5.getLength() << endl;
-	cout << "Length of str4" << str4.getLegth() << endl;
+	cout << "Length of str4" << str4.getLength() << endl;
 	return 0;
 }
 
