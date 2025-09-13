@@ -2,7 +2,7 @@
 #include "MyString.h"
 
 using namespace std;
-//Тут майже весь код для класу стрінг 
+//Г’ГіГІ Г¬Г Г©Г¦ГҐ ГўГҐГ±Гј ГЄГ®Г¤ Г¤Г«Гї ГЄГ«Г Г±Гі Г±ГІГ°ВіГ­ГЈ 
 int main()
 {
 	MyString str1("Hello");
@@ -21,6 +21,7 @@ int main()
 	MyString str5 = "C++";
 	cout << str5 << endl;
 	cout << "Length of str5: " << str5.getLength() << endl;
+	cout << "Length of str4" << str4.getLegth() << endl;
 	return 0;
 }
 
