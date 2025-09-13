@@ -20,6 +20,7 @@ int main()
 		cout << "\"" << str1 << "\" is not less than \"" << str2 << "\"" << endl;
 	MyString str5 = "C++";
 	cout << str5 << endl;
+	cout << "Length of str5: " << str5.getLength() << endl;
 	return 0;
 }
 

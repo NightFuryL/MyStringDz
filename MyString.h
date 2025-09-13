@@ -12,7 +12,6 @@ public:
 	~MyString();
 	MyString& operator=(const MyString& other);
 	MyString& operator=(MyString&& other) noexcept;
-
 	int getLength() const;
 	const char* getData() const;
 	MyString operator+(const MyString& other) const;
